@@ -2,7 +2,7 @@
 
 Program ini memungkinkan pengguna berinteraksi dengan sebuah basis data
 perpustakaan yang terdiri atas data buku dan transaksi peminjaman melalui 
-fitur CRUD (Create, Read, Update, Delte). Program juga dilengkapi dengan 
+fitur CRUD (Create, Read, Update, Delete). Program juga dilengkapi dengan 
 fitur penyimpanan data sebagai file JSON dan validasi input secara keseluruhan.
 
 # FITUR
